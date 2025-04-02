@@ -1,0 +1,18 @@
+primary_label,secondary_labels,type,filename,collection,rating,url,latitude,longitude,scientific_name,common_name,author,license
+soulap1,[''],['call'],soulap1/XC114069.ogg,XC,3,https://xeno-canto.org/114069,4.8,-71.35,Vanellus chilensis,Southern Lapwing,Sergio Chaparro Herrera,cc-by-nc-sa 3.0
+trsowl,[''],[''],trsowl/iNat1197731.ogg,iNat,0,https://static.inaturalist.org/sounds/1197731.wav,-34.3688,-58.58,Megascops choliba,Tropical Screech-Owl,Unknown,cc-by-nc 4.0
+strher,[''],['uncertain'],strher/XC659999.ogg,XC,4,https://xeno-canto.org/659999,-28.1956,153.5514,Butorides striata,Striated Heron,nick talbot,cc-by-nc-sa 4.0
+roahaw,['wbwwre1'],"['call', 'song']",roahaw/XC172507.ogg,XC,4.5,https://xeno-canto.org/172507,-3.0936,-78.3951,Rupornis magnirostris,Roadside Hawk,Leonardo Ordóñez-Delgado,cc-by-nc-sa 4.0
+sobtyr1,[''],"['song', 'dusk song']",sobtyr1/XC405439.ogg,XC,3,https://xeno-canto.org/405439,11.15,-74.1167,Camptostoma obsoletum,Southern Beardless-Tyrannulet,Iván Lau,cc-by-nc-sa 4.0
+whwswa1,[''],['call'],whwswa1/XC211444.ogg,XC,5,https://xeno-canto.org/211444,-0.1334,-67.0834,Tachycineta albiventer,White-winged Swallow,Jeremy Minns,cc-by-nc-sa 4.0
+tbsfin1,[''],['song'],tbsfin1/XC275686.ogg,XC,5,https://xeno-canto.org/275686,0.75,-78.917,Sporophila funerea,Thick-billed Seed-Finch,Patricio Mena Valenzuela,cc-by-nc-sa 4.0
+soulap1,[''],"['song', 'subsong']",soulap1/XC558367.ogg,XC,4,https://xeno-canto.org/558367,2.4799,-76.5406,Vanellus chilensis,Southern Lapwing,Alejandro Vivas Ruiz,cc-by-nc-sa 4.0
+butsal1,[''],"['call', 'song']",butsal1/XC419311.ogg,XC,4,https://xeno-canto.org/419311,-16.2891,-39.335,Saltator maximus,Buff-throated Saltator,Fernando Igor de Godoy,cc-by-nc-sa 4.0
+cotfly1,[''],['song'],cotfly1/XC432604.ogg,XC,0,https://xeno-canto.org/432604,7.5241,-76.5948,Todirostrum cinereum,Common Tody-Flycatcher,Andrea Lopera-Salazar,cc-by-nc-sa 4.0
+1462737,[''],[''],1462737/CSA36380.ogg,CSA,0,http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36380/IAvH-CSA-36380.mp3,7.3842,-73.8456,Docidocercus fasciatus,Docidocercus fasciatus,Fabio A. Sarria-S,cc-by-nc-sa 4.0
+1462711,[''],[''],1462711/CSA36371.ogg,CSA,0,http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36371/IAvH-CSA-36371.mp3,7.2625,-73.8207,Cocconotus aratifrons,Cocconotus aratifrons,Fabio A. Sarria-S,cc-by-nc-sa 4.0
+126247,[''],[''],126247/iNat320679.ogg,iNat,0,https://static.inaturalist.org/sounds/320679.m4a,13.3482,-81.3576,Leptodactylus insularum,Spotted Foam-nest Frog,Carolina Soto V,cc-by-nc 4.0
+21116,[''],[''],21116/iNat296867.ogg,iNat,0,https://static.inaturalist.org/sounds/296867.mp3,5.8604,-74.8877,Dendrobates truncatus,Yellow-striped Poison Dart Frog,Marley T. Gómez-Rincón,cc-by-nc 4.0
+42087,[''],[''],42087/iNat860016.ogg,iNat,0,https://static.inaturalist.org/sounds/860016.mp3,-7.436,-36.3344,Cerdocyon thous,Crab-eating Fox,Breno Farias,cc-by-nc 4.0
+566513,[''],[''],566513/iNat72468.ogg,iNat,0,https://static.inaturalist.org/sounds/72468.mp3,4.8434,-75.8183,Alouatta seniculus,Colombian Red Howler Monkey,David Monroy R,cc-by-nc 4.0
+littin1,[''],['song'],littin1/XC128995.ogg,XC,3,https://xeno-canto.org/128995,4.6717,-75.6283,Crypturellus soui,Little Tinamou,Oscar H. Marín-Gómez,cc-by-nc-sa 3.0
